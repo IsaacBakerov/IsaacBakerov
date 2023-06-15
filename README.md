@@ -15,12 +15,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/@isaacbakerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@isaacbakerov" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/israfil-baghirov/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israfil-baghirov/" height="30" width="40" /></a>
-<a href="https://instagram.com/@ogdovahkiin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ogdovahkiin" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@takezoshinmen6804" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@takezoshinmen6804" height="30" width="40" /></a>
+<a href="https://codepen.io/IsaacBakerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@isaacbakerov" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/israfil-baghirov-363742219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israfil-baghirov/" height="30" width="40" /></a>
+<a href="https://z-p3.www.instagram.com/ogdovahkiin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ogdovahkiin" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC2J8AgrZqA4nULAC3y3JYTA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@takezoshinmen6804" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/mortalkal2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@mortalkal2002" height="30" width="40" /></a>
-<a href="https://discord.gg/@mortalkal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="@mortalkal" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
