@@ -2,7 +2,7 @@
 <h3 align="center">A passionate learner from Azerbaijan</h3>
 <h5 align="center">20 years old. Bachelor of Computer Engineering, Azerbaijan State Oil and Industrial University.</h5>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=isaacbakerov&label=Profile%20views&color=0e75b6&style=flat" alt="isaacbakerov" /> </p>
+
 
 - 🌱 I’m currently learning **Java**
 
