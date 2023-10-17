@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Israfil Baghirov</h1>
+<h1 align="center">Hi, I'm Israfil Baghirov</h1>
 <h3 align="center">A passionate learner from Azerbaijan</h3>
-<h5 align="center">20 years old. Bachelor of Computer Engineering, Azerbaijan State Oil and Industrial University.</h5>
+<h5 align="center">21 years old. Pursuing Master's degree in Computer Engineering, Azerbaijan State Oil and Industrial University.</h5>
 
 
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Java, Spring Boot and PostgreSQL**
 
 - 📫 Reach me **isrbgrv2002@gmail.com**
 
