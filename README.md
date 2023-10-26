@@ -14,7 +14,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://hyperskill.org/profile/157595790" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_16kxt3/styles/communityIcon_whsnivfzm6ha1.png" alt="Israfil_Baghirov" height="30" width="40" /></a>
+<a href="https://hyperskill.org/profile/157595790" target="blank"><img align="center" src="https://styles.redditmedia.com/t5_16kxt3/styles/communityIcon_whsnivfzm6ha1.png" alt="Israfil_Baghirov" height="30" width="30" /></a>
 <a href="https://codepen.io/IsaacBakerov" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@isaacbakerov" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/israfil-baghirov-363742219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/israfil-baghirov/" height="30" width="40" /></a>
 <a href="https://z-p3.www.instagram.com/ogdovahkiin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@ogdovahkiin" height="30" width="40" /></a>
